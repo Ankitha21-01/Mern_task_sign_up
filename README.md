@@ -117,9 +117,17 @@ curl -X POST http://localhost:5000/api/signup -H "Content-Type: application/json
 
 ## Screenshots
 
-Screenshot of the running Sign Up page:
+**1. Sign Up page (initial state)**
 
-![Sign Up page running](screenshots/signup-running.png)
+![Sign Up page](screenshots/1-signup-page.png)
+
+**2. Form filled in**
+
+![Form filled in](screenshots/2-form-filled.png)
+
+**3. Sign Up successful**
+
+![Sign Up successful](screenshots/3-sign-up-successful.png)
 
 ## Security Notes
 
